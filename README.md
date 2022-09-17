@@ -1,2 +1,2 @@
 # creperSR_moeyy
-A repository that few people read.
+Remember to shut down the computer and restart it
